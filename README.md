@@ -16,7 +16,7 @@ possibly Oauth, JSON manipulation,
 # Background
 Using Tailscale a lot, I've found that it is not very wonderful to interact with
 the raw ACL file. While Tailscale has now implemented a good GUI for this
-there lacks an CLI for it. Hence, I am doing this for myself and others who
+a CLI lacks for this function. Hence, I am doing this for myself and others who
 might be interested in this solution.
 
 This is not a commercial product and mostly for my own use.
